@@ -17,3 +17,24 @@
 {
     width: 300px;
 }
+#Footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    
+}
+img:hover{
+border-radius:20px ;
+border:10px solid navy;
+}
+body{
+    background-color: azure;
+}
+#result1,#result2,#result3{
+    display:inline;
+}
+#resultShow{
+    margin-bottom: 100px;
+}
